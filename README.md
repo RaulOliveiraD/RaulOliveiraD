@@ -10,7 +10,7 @@
 
 <p align="center">
   <samp>
-  I'm just starting out in the world of programming and i'm very interested in integrating myself more and more into the market. The front-end caught my attention a lot because of its languages ​​and the direct interaction with the user, my journey started with the curiosity of understanding how web pages come to life and evolved into a constant quest to learn and improve my skills.
+    I'm just starting out in the world of programming and i'm very interested in integrating myself more and more into the market. The front-end caught my attention a lot because of its languages ​​and the direct interaction with the user, my journey started with the            curiosity of understanding how web pages come to life and evolved into a constant quest to learn and improve my skills.
  <samp>
 </p>
 
